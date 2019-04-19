@@ -22,8 +22,8 @@ A simple Wordcloud Generator that can create randomised word clouds using text f
 
 ## Authors
 
-* **Blaine Burke** - *Creator* - [Blaine Burke](https://github.com/BurkeBlaine1999)
+* **[Blaine Burke](https://github.com/BurkeBlaine1999)** - *Creator*
 
-## Acknowledgments
+## Created for..
 
 Created for 2nd year GMIT college Project!
